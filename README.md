@@ -21,5 +21,3 @@ A full-stack web application developed to provide an online platform for Lakshmi
 **Database:** MySQL  
 
 ---
-
-## 📂 Project Structure
